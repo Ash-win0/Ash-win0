@@ -4,17 +4,11 @@
 </h1>
 
 
-<h1 align="center">
-  <code style="color:#00FF00; font-size:28px; font-family:'Fira Code', monospace;">
-    👨‍💻 ASWIN PUNNELY CHANDRAN
-  </code>
-</h1>
+<h1 align="center">👨‍💻 ASWIN PUNNELY CHANDRAN</h1>
+<h3 align="center">
+  <code>CS Student ⚙️ | Cloud Explorer ☁️ | ML Apprentice 🧠 | Cybersecurity Enthusiast 🔐</code>
+</h3>
 
-<p align="center">
-  <code style="color:#39FF14; font-size:16px; font-family:'Fira Code', monospace;">
-    CS Student ⚙️ | Cloud Explorer ☁️ | ML Apprentice 🧠 | Cybersecurity Enthusiast 🔐
-  </code>
-</p>
 
 
 ---
