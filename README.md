@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Access+Granted...;Booting+ASWIN+P.C.;Loading+Cloud+and+ML+Modules;Monitoring+Cyber+Threats...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Access+Granted...;Booting+@$w1n.;Loading+Cloud+and+ML+Modules;Monitoring+Cyber+Threats...">
 </p>
 
 <h1 align="center">👨‍💻 ASWIN PUNNELY CHANDRAN</h1>
