@@ -1,19 +1,22 @@
+<!-- 💻 ASWIN | HACKER-THEMED DARK GITHUB README -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Initializing+ASWIN...;Booting+Cloud+Node...;Deploying+ML+Models...;Monitoring+Cyber+Threats..." alt="Typing SVG" />
+</h1>
 
-<h1 align="center">🧠 SYSTEM OVERRIDE: <span style="color:#00ffff;">ASWIN P.C.</span> ONLINE</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=00FFFF&center=true&vCenter=true&lines=CS+Student+%7C+Cloud+Explorer+%7C+ML+Apprentice+%7C+Cybersecurity+Observer" alt="Typing SVG" />
-</p>
+<h1 align="center">👨‍💻 <span style="color:#00FFFF;">ASWIN PUNNELY CHANDRAN</span></h1>
+<p align="center">CS Student ⚙️ | Cloud Explorer ☁️ | ML Apprentice 🧠 | Cybersecurity Enthusiast 🔐</p>
 
 ---
 
-### 🔍 SYSTEM INFO
+### 🧠 SYSTEM PROFILE
 
 ```yaml
-User:        ASWIN PUNNELY CHANDRAN
-Access Level: Root | Admin | DevSecOps Trainee
-Field:       Computer Science
-Mainframe:   GCP, AWS, Azure (in training)
-Interests:   ☁️ Cloud | 🧠 ML | 🔐 Cybersecurity | ⚙️ DevOps
-Email:       aswinpc7@gmail.com
-Status:      🚀 Seeking Challenges | 🤝 Open to Collaborations
+User:         aswinpc7
+Access Level: Root | Offensive Security Trainee
+OS:           Linux (Primary) | Windows | CloudShell
+Languages:    Python, Bash, Java, C
+Specialties:  ☁️ GCP & AWS | 🔐 DevSecOps | 🧠 ML & Data
+Tools:        Git, Docker, Kubernetes, Wireshark, Nmap, Metasploit
+Status:       🚀 Ready for Red Team | 🤝 Open to Collab
+Contact:      aswinpc7@gmail.com
