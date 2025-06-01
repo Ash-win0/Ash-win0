@@ -9,7 +9,8 @@
 </p>
 
 <h1 align="center">
-  <img src="https://i.imgur.com/4M7IWwP.png" width="40" style="vertical-align:middle;" alt="Anonymous Mask" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Anonymous_emblem.svg" width="50" alt="Anonymous Logo" />
+  <br/>
   ASWIN PUNNELY CHANDRAN
 </h1>
 
