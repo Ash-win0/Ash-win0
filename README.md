@@ -9,10 +9,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/assets/anonymous_mask.png?raw=true" width="80" alt="Anonymous Mask" />
+  <img src="https://pngimg.com/uploads/anonymous_mask/anonymous_mask_PNG21.png" width="80" alt="Anonymous Mask" />
   <br/>
   ASWIN PUNNELY CHANDRAN
 </h1>
+
 
 
 
