@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👨‍💻%20ASWIN%20P.C.-HACKER%20MODE-00FF00?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/👨‍💻%20A$w1n%20-HACKER%20MODE-00FF00?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000" />
 </p>
 
 
