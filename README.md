@@ -8,7 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Access+Granted...;Booting+@$w1n.;Loading+Cloud+and+ML+Modules;Monitoring+Cyber+Threats...">
 </p>
 
-<h1 align="center">👨‍💻 ASWIN PUNNELY CHANDRAN</h1>
+<h1 align="center">
+  <img src="https://i.imgur.com/4M7IWwP.png" width="40" style="vertical-align:middle;" alt="Anonymous Mask" />
+  ASWIN PUNNELY CHANDRAN
+</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS%20Student-00FF00?style=flat-square&logo=linux&logoColor=white&labelColor=0D1117&color=00FF00" />
