@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <code>📍 Based in /India — ☁️ GCP + AWS — 🧠 Machine Learning — 🔒 DevSecOps | Red Team Curious</code>
+  <code>📍 Based in /  United Kingdom — ☁️ GCP + AWS — 🧠 Machine Learning — 🔒 DevSecOps | Red Team Curious</code>
 </p>
 
 
